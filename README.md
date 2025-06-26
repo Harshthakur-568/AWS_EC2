@@ -15,8 +15,7 @@ https://docs.google.com/document/d/1q0NIpiSnygB-86rM0JxCsOOXD3BAqa_LNf_kwptFcHI/
   - [3. Push Docker Image to Docker Hub](#3-push-docker-image-to-docker-hub)
   - [4. Launch and Configure AWS EC2](#4-launch-and-configure-aws-ec2)
   - [5. Bonus Tasks](#5-bonus-tasks)
-- [📸 Screenshots](#-screenshots)
-- [📌 Additional Notes](#-additional-notes)
+
 
 ---
 
